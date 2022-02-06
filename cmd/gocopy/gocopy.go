@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/atotto/clipboard"
+	"pkg.nimblebun.works/clipboard"
 )
 
 func main() {

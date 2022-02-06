@@ -1,1 +1,3 @@
-module github.com/atotto/clipboard
+module pkg.nimblebun.works/clipboard
+
+go 1.15

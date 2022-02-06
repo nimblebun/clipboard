@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/atotto/clipboard"
+	"pkg.nimblebun.works/clipboard"
 )
 
 func main() {
